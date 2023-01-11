@@ -1,6 +1,6 @@
 # Vite + React + TailwindCSS
 
-A simple example Vite with TailwindCSS app that is configured with React.
+A simple Vite with TailwindCSS app that is configured with React.
 
 Ready to deploy on Railway.
 
@@ -9,4 +9,3 @@ Ready to deploy on Railway.
 - Vite
 - React
 - TailwindCSS
-- 
